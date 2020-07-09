@@ -1,2 +1,2 @@
 # StriceHotkeyScripts
- Useful AutoHotKey Strice uses
+ Useful AutoHotKey scripts Strice uses
