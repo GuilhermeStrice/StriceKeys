@@ -5,3 +5,7 @@ return
 ^!+::
 Click, WheelUp
 return
+
+^!-::
+Click, MButton
+return
